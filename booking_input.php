@@ -2,7 +2,7 @@
 
 
 
-<form method="" action="">
+<form method="GET" action="booking.php">
 
 	Name: <input type="text" name="name"> 
     <br>
@@ -12,5 +12,7 @@
     <br>
     To: <input type="text" name="to"> 
     <br>
+
+    <input type="submit">
 
 </form>

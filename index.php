@@ -27,7 +27,7 @@
 	echo "<br>";
 
 
-    echo "<button> <a href = '#'> addBooking </a> </button>";
+    echo "<button> <a href = 'booking_input.php'> addBooking </a> </button>";
 	echo "<button> <a href = '#'> CancelBooking </a> </button>";
 
 ?>
