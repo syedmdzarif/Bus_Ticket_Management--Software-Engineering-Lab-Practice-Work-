@@ -25,6 +25,8 @@
 
 	echo "</table> \n";
 
+    echo "<button> <a href = 'index.php'> Home </a> </button>";
+
 
 
 ?>

@@ -19,4 +19,6 @@
 
     echo "Record inserted";
 
+    echo "<button> <a href = 'index.php'> Home </a> </button>";
+
 ?>
