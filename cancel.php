@@ -17,6 +17,6 @@
 	echo "Record deleted<br>";
 
 	echo "<p><a href=read.php>READ all records</a>";
-    echo "<button> <a href = 'index.php'> Home </a> </button>";
+    echo "<br><button> <a href = 'index.php'> Home </a> </button>";
 
 ?>
