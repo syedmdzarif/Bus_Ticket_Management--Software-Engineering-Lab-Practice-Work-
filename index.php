@@ -29,5 +29,6 @@
 
     echo "<button> <a href = 'booking_input.php'> addBooking </a> </button>";
 	echo "<button> <a href = 'cancel_input.php'> CancelBooking </a> </button>";
+	echo "<button> <a href = 'ticketing_history_user.php'> Record by Name </a> </button>";
 
 ?>
