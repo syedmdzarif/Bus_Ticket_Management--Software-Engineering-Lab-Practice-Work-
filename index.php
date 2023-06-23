@@ -28,6 +28,6 @@
 
 
     echo "<button> <a href = 'booking_input.php'> addBooking </a> </button>";
-	echo "<button> <a href = '#'> CancelBooking </a> </button>";
+	echo "<button> <a href = 'cancel_input.php'> CancelBooking </a> </button>";
 
 ?>
