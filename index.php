@@ -24,8 +24,10 @@
 
 	echo "</table> \n";
 
+	echo "<br>";
 
-    echo "<button> <a href = '#'> Add Booking </a> </button>";
-	echo "<button> <a href = '#'> Cancel Booking </a> </button>";
+
+    echo "<button> <a href = '#'> addBooking </a> </button>";
+	echo "<button> <a href = '#'> CancelBooking </a> </button>";
 
 ?>
