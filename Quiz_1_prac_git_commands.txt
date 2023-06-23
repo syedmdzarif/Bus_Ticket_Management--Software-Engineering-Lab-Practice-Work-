@@ -1,0 +1,90 @@
+git init
+
+git add db_create.txt
+
+git commit -m "Commit for db_create.txt file"
+
+git add dbconfig.php
+
+git commit -m "Commit for dbconfig.php file"
+
+git add index.php
+
+git commit -m "Commit for index.php file"
+
+git branch feature_1
+
+git checkout feature_1
+
+
+
+
+
+
+git add .
+git commit -m "Commit for file creation"
+
+git add .
+git commit -m "Commit for form creation"
+
+git add .
+git commit -m "Commit for frontend for booking completion"
+
+git add .
+git commit -m "Commit for get method in backend"
+
+git add .
+git commit -m "commit for backend completion"
+
+git add .
+git commit "Commit for backend"
+
+
+
+
+git checkout master
+git merge feature_1
+
+
+
+
+git branch feature_2
+git checkout feature_2
+
+
+
+git add .
+git commit -m "Commit for file creation cancel"
+
+git add .
+git commit -m "Commit for link from index.php"
+
+git add .
+git commit -m "Commit for frontend for delete"
+
+git add .
+git commit -m "Commit for backend"
+
+git add .
+git commit -m "Commit for backend completion for cancel"
+
+git add .
+git commit -m "Commit for final cncel backend"
+
+
+
+git checkout master
+git merge feature_2
+
+
+git add .
+git commit -m "Commit for file creation"
+
+git add .
+git commit -m "Commit for search by name"
+
+git add .
+git commit -m "Commit for search by ID"
+
+
+
