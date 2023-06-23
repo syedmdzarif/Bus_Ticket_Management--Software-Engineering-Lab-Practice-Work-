@@ -13,9 +13,10 @@
 
 		or die("Can not connect");
 
-	mysqli_query( $connect, "INSERT INTO ticket_booking VALUES ( '', '$name', '$date', '$from', '$to' )" )
+	mysqli_query( $connect, "INSERT INTO ticket_booking VALUES ( '', '$name', '$date', '$from', '$to' , '')" )
 
 		or die("Can not execute query");
 
+    echo "Record inserted";
 
 ?>
