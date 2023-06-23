@@ -1,7 +1,5 @@
 <h1>Create Record</h1>
 
-
-
 <form method="GET" action="booking.php">
 
 	Name: <input type="text" name="name"> 
